@@ -1,6 +1,6 @@
 import React from 'react';
 
-import styled from 'styled-components';
+import styled from '@emotion/styled';
 const Table = styled.table`
   margin: 0 auto;
   width: 70%;
